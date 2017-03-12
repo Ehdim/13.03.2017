@@ -1,0 +1,17 @@
+.main{
+    width: 100px;
+    height: 300px;
+    border: 1px solid grey;
+    margin-left: 500px;
+    border-radius: 20px;
+    background: black;
+}
+.yumru{
+    width: 70px;
+    height: 70px;
+    border: 1px solid grey;
+    margin-left: 16px;
+    margin-top: 20px;
+    border-radius: 100%;
+    background: white;
+}
